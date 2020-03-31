@@ -1,0 +1,4 @@
+[submodule "docs"]
+	path = docs
+	url = https://github.com/Robot4Learning/Robot4Learning.github.io.git
+	branch = master
